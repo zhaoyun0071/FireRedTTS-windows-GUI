@@ -15,7 +15,7 @@ https://github.com/FireRedTeam/FireRedTTS
 
  
 # B站介绍：
-https://有待上传
+https://www.bilibili.com/video/BV1Fs2BYPEQE
 
 # 更新记录
 
